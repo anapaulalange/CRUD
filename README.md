@@ -1,5 +1,7 @@
 # crud_projeto_agenda
 
+JUSTIFICATIVA:
+
 - Criação de uma aplicação que simula uma agenda utilizando o framework Django.
 
 - A aplicação é multiusuário e cada usuário consegue visualizar apenas a sua agenda e não a agenda dos demais.
