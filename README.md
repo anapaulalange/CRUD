@@ -1,4 +1,4 @@
-# crud_projeto_agenda
+# django_projeto-agenda
 
 JUSTIFICATIVA:
 
